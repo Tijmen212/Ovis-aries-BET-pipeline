@@ -7,6 +7,7 @@ To run the notebooks locally use the 'environment' file to install the required 
 There is an accompanying poster for which the references are below.
 
 References:
+    
     1.Yushkevich PA, Piven J, Hazlett HC, Smith RG, Ho S, Gee JC, et al. User-guided 3D active contour segmentation of anatomical structures: Significantly improved efficiency and reliability. NeuroImage. 2006 Jul 1;31(3):1116–28.
 
     2.Wells AJ, Vink R, Blumbergs PC, Brophy BP, Helps SC, Knox SJ, et al. A surgical model of permanent and transient middle cerebral artery stroke in the sheep. PLoS ONE. 2012 Jul 27;7(7).
